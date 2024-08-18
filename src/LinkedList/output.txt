@@ -1,0 +1,12 @@
+SRS-6003 is met
+SRS-6004 is met
+SRS-6001 is met
+[running black pie] SRS-6002: is NOT met
+[running EOM pie] SRS-6010: is NOT met
+[running green selenium01, running green selenium02, running green selenium03] SRS-6000: is NOT met
+SRS-6011 is met
+SRS-6009 is met
+SRS-6007 is met
+SRS-6008 is met
+SRS-6005 is met
+SRS-6006 is met
